@@ -28,8 +28,11 @@ I enjoy building practical software across backend, frontend, and computer visio
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryans31&show_icons=true&theme=radium" alt="Aryan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryans31&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Aryan's GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryans31&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryans31&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryans31&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
